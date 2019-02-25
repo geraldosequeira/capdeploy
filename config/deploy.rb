@@ -1,6 +1,6 @@
 lock "~> 3.11.0"
 
-set :application, "my_app_name"
+set :application, "capdeploy"
 set :repo_url, "git@github.com:geraldosequeira/capdeploy.git"
 
 set :puma_threads,    [4, 16]
